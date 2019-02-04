@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B87C7EF1-AB42-44C7-ABED-FFDE9F6B12C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE45F4A3-713B-4A9A-91D4-0CE336A8EF77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B554F05E-65BE-4120-BC85-D47A4F7B67CB",
+    "height": 51,
+    "width": 190,
+    "x": 80,
+    "y": 762
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6980C2ED-A79C-4924-A351-396F02AEA65B"
+    },
+    {
+      "class": "text",
+      "id": "8D7B29D3-5F92-4E42-AEAF-61C49F253F79"
+    }
+  ],
+  "name": "Buy Tickets",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DDE75F1-0B32-4674-9224-3E7551048DB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

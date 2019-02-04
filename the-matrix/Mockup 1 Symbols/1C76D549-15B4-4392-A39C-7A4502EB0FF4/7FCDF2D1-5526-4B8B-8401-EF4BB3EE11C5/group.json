@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FCDF2D1-5526-4B8B-8401-EF4BB3EE11C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21BF4E80-293E-49E3-BCF7-5E3A6D4E2908",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F3C66C7-7D1C-405B-B52C-709AAFA031F8",
+    "height": 215,
+    "width": 215,
+    "x": 770,
+    "y": 478
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "E362E283-153D-4BB1-B560-8ABEF4585F67"
+    },
+    {
+      "class": "group",
+      "id": "F6A734B3-A251-499F-92E4-309AA47FD802"
+    },
+    {
+      "class": "text",
+      "id": "A8740AD3-B659-41C1-92DF-8D3408C44E5D"
+    }
+  ],
+  "name": "Blue Pill",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB34471F-4F67-4CEA-AAF8-D49968E3FCCB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

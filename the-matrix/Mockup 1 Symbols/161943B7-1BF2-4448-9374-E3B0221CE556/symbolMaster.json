@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B5CB98E8-326E-403C-A7F5-063E54F8B3DF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 834,
+  "clippingMaskMode": 0,
+  "do_objectID": "161943B7-1BF2-4448-9374-E3B0221CE556",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C090257-31BE-4231-9602-0B3D095BE381",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2537C94A-86C8-4338-81A0-1F2B60E897FD",
+    "height": 1024,
+    "width": 1440,
+    "x": -1527,
+    "y": 3862
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1B5D4152-6181-4622-817D-58663BC02553",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "ECCD48DC-9F7C-4C9F-BD99-34E0F4B1A980"
+    },
+    {
+      "class": "rectangle",
+      "id": "163060B0-7B3D-4993-A304-8F4106C4732D"
+    },
+    {
+      "class": "rectangle",
+      "id": "453F604A-7DED-4CB9-B190-342902CE9422"
+    },
+    {
+      "class": "text",
+      "id": "61D1A1FA-72BA-4B6A-A692-1E50CBE929E8"
+    },
+    {
+      "class": "text",
+      "id": "BD5FA58B-7309-4E8A-B2C8-B4445C2A8E49"
+    },
+    {
+      "class": "group",
+      "id": "59740850-5908-4905-9FEB-06BDD145AF61"
+    },
+    {
+      "class": "group",
+      "id": "4B4D8D14-0BAE-4ED8-9CBF-F48992EF2086"
+    }
+  ],
+  "name": "layout / headerBluePill",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA5B1B39-6A68-444A-B423-9101A9DA8BE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8258259-747E-436E-AB73-D2CAF675D257",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7AD4E4D3-C573-477B-8FD5-A46651BD7A5B",
+    "guides": [
+    ]
+  }
+}

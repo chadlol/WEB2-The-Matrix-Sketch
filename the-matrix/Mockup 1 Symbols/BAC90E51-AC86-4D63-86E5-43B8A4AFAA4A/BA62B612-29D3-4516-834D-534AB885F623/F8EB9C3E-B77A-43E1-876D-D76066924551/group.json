@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8EB9C3E-B77A-43E1-876D-D76066924551",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9115F64F-7585-4585-AC52-31327C1541EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E7F5657A-8712-4F32-95A7-8C1406F0F485",
+    "height": 139,
+    "width": 97,
+    "x": 59,
+    "y": 37
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "466DEF9D-DD98-40E7-B5A9-B35CF2DF8A6E"
+    },
+    {
+      "class": "text",
+      "id": "DE77C444-0629-485E-BD08-C49CE47D1AE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A303E51-B3C3-4615-A0FC-502C6940A32B"
+    }
+  ],
+  "name": "pill",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "450F9AC2-7D6A-4A7A-A1C8-DB96CC0E11B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

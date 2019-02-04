@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9F4AD7EB-058A-4EF8-89C5-C4A6E6933CC5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 715,
+  "clippingMaskMode": 0,
+  "do_objectID": "29A36093-4504-45D2-BC15-3CF8D3C46901",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "007E1614-81A6-4DE7-9A12-C8E61A5114C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0679685B-4B75-4602-9D1B-6010806C7F25",
+    "height": 1024,
+    "width": 720,
+    "x": -898,
+    "y": 5310
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "43C31547-987F-44C3-912D-36E336F6C272",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1F97465D-4A7B-4A4A-81BC-D536BE005AA8"
+    },
+    {
+      "class": "text",
+      "id": "0939D22F-7CF2-4E75-B699-99BBB72F273B"
+    },
+    {
+      "class": "text",
+      "id": "BCB56750-7F74-4D4F-BB6B-29546C12F02F"
+    },
+    {
+      "class": "text",
+      "id": "F2CB678F-7450-4760-8FB5-3136467C85DC"
+    },
+    {
+      "class": "group",
+      "id": "FB14EE66-8286-439A-8290-2AFB8E69D807"
+    },
+    {
+      "class": "group",
+      "id": "6071E51B-C2D1-4901-9A24-EC01E7139530"
+    },
+    {
+      "class": "group",
+      "id": "50B2C7B7-AF00-4D31-8C5F-76FA758E079B"
+    }
+  ],
+  "name": "molecule / videoWithTextAndButtonsBluePill",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "453A26E8-3654-45B6-AE54-45A031FB588E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8868A976-EB99-44AD-A665-3B6388B6CA09",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E9981AE-2A86-445D-AC26-214EEA079600",
+    "guides": [
+    ]
+  }
+}

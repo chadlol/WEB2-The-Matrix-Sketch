@@ -1,0 +1,128 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F0BD920-37F9-459D-A994-6862CB6186ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6157F32C-E965-495D-8D01-3F8121142BE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D4D21C2-D486-4A8F-805F-9E774DA8E8C1",
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 335,
+    "do_objectID": "6D82C947-76EB-4C88-A44A-695C15F53D64",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "B5FBB39D-6AFB-43A4-A974-4C959C18CF33"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "188B9F9E-0C2F-4E01-8DAC-B58DFED588C8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "60D4C19D-085D-466D-BD10-1A96E3678A52"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5C2B790F-1EBB-4929-B08C-8F22395FF7D0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9ED725FD-0475-4A14-A1E5-B69CE3B8AE80"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CF2FF1A9-D94F-4270-9BCD-88ED1774066F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D77D7A12-792C-436E-BC5C-851E44FF4962"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "161943B7-1BF2-4448-9374-E3B0221CE556"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E9EA2337-C531-4FD7-A2A6-F7DAB775567C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9F5DF589-7A12-4842-AFD7-A11C42F7CC19"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C54F8AEF-E418-4989-BC84-EFD12102B66C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BAC90E51-AC86-4D63-86E5-43B8A4AFAA4A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1C76D549-15B4-4392-A39C-7A4502EB0FF4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7EF7B6F8-AB41-4D4C-A3F5-1D37A52AD8B2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9DDBD103-8C26-4225-B772-64BA23324F22"
+    },
+    {
+      "class": "group",
+      "id": "E098DFBF-7A14-4116-9E6F-C87D2D41A066"
+    }
+  ],
+  "name": "Mockup 1 Symbols",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E03D5C3F-D301-4F43-90F9-9CC06C0D7B1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 163,
+    "do_objectID": "D7A2CAB0-7487-4CA5-B259-2CAA46FD32FA",
+    "guides": [
+    ]
+  }
+}

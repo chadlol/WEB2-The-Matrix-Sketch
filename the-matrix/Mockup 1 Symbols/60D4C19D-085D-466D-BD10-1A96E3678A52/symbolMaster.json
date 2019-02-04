@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "921DB568-FD41-4DE9-BB36-18394782C06E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 6354,
+  "clippingMaskMode": 0,
+  "do_objectID": "60D4C19D-085D-466D-BD10-1A96E3678A52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE8A87EA-8B86-4344-9F13-35DC0879366F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FD8F2E2-A3ED-49DD-8F47-BBC73E934988",
+    "height": 560,
+    "width": 375,
+    "x": 3537,
+    "y": 842
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BFDA1A89-A396-423B-8200-19F0491F538D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B1EA8E22-8F40-4C7D-8262-643291FED512"
+    },
+    {
+      "class": "text",
+      "id": "6240A6ED-FAF4-4046-9CA1-D39687A90BA3"
+    },
+    {
+      "class": "text",
+      "id": "A5474C82-0951-4B6A-A953-ED53AC761DAC"
+    },
+    {
+      "class": "text",
+      "id": "97ABEA9D-21E9-4424-AEB7-EA37A9B957D8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 16,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15.25,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "molecule / mobile textBlockRedPill",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C857417C-D0B2-46D7-9692-94B2A471E351",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "929F2B8C-E724-4CD9-AAC1-B26007301361",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D1D08BD6-6ADA-4BB6-8146-09C12F9FE2B7",
+    "guides": [
+    ]
+  }
+}

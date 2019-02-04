@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76577EBC-9298-49EC-B321-B2FA7E2DCB98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD51E7D2-0227-4E79-A7C5-FEAA2752E855",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "391AE99E-0C75-4F0B-AAF1-3BE3AF39D310",
+    "height": 180,
+    "width": 180,
+    "x": 810,
+    "y": 478
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5C7A6487-699F-4A06-B1F1-5195E810D1A3"
+    },
+    {
+      "class": "text",
+      "id": "87550A7B-171E-4A0F-9D63-9056D6476CFC"
+    }
+  ],
+  "name": "Blue Pill Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24B74F6D-1B18-49F2-B060-6EAFCA8715EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

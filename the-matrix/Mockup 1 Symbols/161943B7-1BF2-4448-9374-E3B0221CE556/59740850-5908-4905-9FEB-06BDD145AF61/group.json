@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59740850-5908-4905-9FEB-06BDD145AF61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "367862B1-8C52-46BE-A8A4-B531AEB346B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E87974CD-44A8-425D-B63C-0E5D0166521A",
+    "height": 215,
+    "width": 215,
+    "x": 455,
+    "y": 478
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "64EEB76E-9D9F-40BC-9129-684264522A3A"
+    },
+    {
+      "class": "group",
+      "id": "3A7687E9-5883-49BE-BB1D-90740894C748"
+    },
+    {
+      "class": "text",
+      "id": "87AA62C1-151D-41D6-87E5-59D934F29397"
+    }
+  ],
+  "name": "Red Pill Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D88F9E3-B649-460F-AF3E-05437FDB819C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

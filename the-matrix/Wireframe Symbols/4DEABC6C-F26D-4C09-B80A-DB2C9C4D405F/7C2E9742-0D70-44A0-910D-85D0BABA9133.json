@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C2E9742-0D70-44A0-910D-85D0BABA9133",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A40E26BE-20C7-427A-AF00-BC3FC1ECA548",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C1470F0-4ECA-4CC0-91D7-A5C3E22A4DB5",
+    "height": 1024,
+    "width": 720,
+    "x": 720,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "videoWithTextAndButtons",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CD2C141-5A3D-4D49-A0FE-F4BFAD63168C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D88FC76-CDFB-4A6A-859E-E7231E0E2AD4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95CC30B9-8B20-4D00-A2B9-8F301A248528",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB12A636-AD24-4F91-99A8-9D4214FFB50F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B95F1366-1707-4187-859A-85AFBD817D8B",
+    "height": 120,
+    "width": 120,
+    "x": 38,
+    "y": 281
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "F452736A-083C-4A0E-B65A-0EBBF6C8C854"
+    },
+    {
+      "class": "group",
+      "id": "4D56BCE6-B517-4F5A-BFE1-0BBA1BDA7301"
+    },
+    {
+      "class": "text",
+      "id": "63026D3E-D88E-4459-BBC6-B5D44313A16E"
+    }
+  ],
+  "name": "Red Pilll",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD4E0580-AAE4-47AA-8EE4-F437A62D6EBA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
